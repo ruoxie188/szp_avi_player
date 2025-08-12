@@ -130,7 +130,7 @@ version: 2.0.0
 
 - [ESP FOURCC 编码介绍 - 乐鑫科技 Espressif的文章 - 知乎]https://zhuanlan.zhihu.com/p/1899104690337224284)
 - [乐鑫官方组件介绍](https://github.com/espressif/esp-iot-solution/tree/master/components/avi_player)
--立创开发板 实战派教学
+- 立创开发板 实战派教学
 
 ## 5. 致谢
 
