@@ -1,0 +1,24 @@
+{
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "D:\\esp\\516_tools\\tools\\esp-clang\\15.0.0-23786128ae\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=D:\\esp\\516_tools\\tools\\xtensa-esp32s3-elf\\esp-12.2.0_20230208\\xtensa-esp32s3-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=d:\\tinyml_lvgl\\lcd_avi_2\\build"
+  ],
+  "files.associations": {
+    "audio_player.h": "c",
+    "jpeg_decoder.h": "c",
+    "stdio.h": "c",
+    "esp_jpeg_dec.h": "c",
+    "esp_lcd_touch_ft5x06.h": "c",
+    "esp32_s3_szp.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM13"
+}
